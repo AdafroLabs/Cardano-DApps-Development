@@ -41,9 +41,9 @@ Encountering Development of Decentralized Applications using the Cardano (ADA) e
 -	interacting with a faucet.
 -	Understanding the mechanisms of smart contract operations
 -	Fine tuning smart contracts
-  1.	Principles of elegant design
-  2.	Using design patterns
-  3.	Anticipating obsolence.
+     1.	Principles of elegant design
+     2.	Using design patterns
+     3.	Anticipating obsolence.
 -	Deployment of contracts to the testnets
 -	Assigning a demo project.
 
@@ -51,14 +51,15 @@ Encountering Development of Decentralized Applications using the Cardano (ADA) e
 -	Understanding smart contract security and vulnerabilities.
 (specific exploits to consider:  buffer over/underruns, re-entrancy ,race conditions, front running etc.)
 -	Testing aspects of smart contracts
-  1.	Understanding byzantine fault tolerance
-  2.	Unit testing
-  3.	Integration testing
-  4.	Planning for change and integration with other protocols in the DeFi ecosystem and cross chain/Multichain future.
+      1.	Understanding byzantine fault tolerance
+      2.	Unit testing
+      3.	Integration testing
+      4.	Planning for change and integration with other protocols in the DeFi ecosystem and cross chain/Multichain future.
 -	Auditing Smart contracts
-  1.	Creating a threat model
-  2.	Using audit tools like slither, solhint etc to check types
-  3.	Writing comprehensive test cases.
-  4.	Crosschecking for all vulnerabilities.
+      1.	Creating a threat model
+      2.	Using audit tools and blockexplorers.
+      3.	Writing comprehensive test cases.
+      4.	Crosschecking for all vulnerabilities.
 - Audit reporting 
 - deploying to the mainnet/livenet.
+- Assigning Projects.
