@@ -47,7 +47,7 @@ Encountering Development of Decentralized Applications using the Cardano (ADA) e
 -	Deployment of contracts to the testnets
 -	Assigning a demo project.
 
-# Ubderstanding Security and Vulnerability audits. 
+# Understanding Security and Vulnerability audits. 
 -	Understanding smart contract security and vulnerabilities.
 (specific exploits to consider:  buffer over/underruns, re-entrancy ,race conditions, front running etc.)
 -	Testing aspects of smart contracts
