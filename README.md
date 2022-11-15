@@ -27,7 +27,7 @@ Encountering Development of Decentralized Applications using the Cardano (ADA) e
 -	toolset(vs code,the REPL, Stack, linux distro of choice etc)
 -	useful links  http://docs.haskellstack.org/en/stable/README/, and  https://github.com/bitemyapp/learnhaskell
 
-# Introduction to Haskell.
+# Introduction to Haskell & Plutus core.
 -	The functional programming paradigm.
 -	programming basics (datatypes , types and type classes )
 -	Functional Paradigm aspect of Haskell( lists, Monoids & Semigroups, recursion and adversity)
